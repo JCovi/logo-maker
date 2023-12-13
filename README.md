@@ -12,7 +12,7 @@ A Node.js command-line application for generating simple logos and saving them a
 - The generated SVG file will be saved as logo.svg. The console will display "Generated logo.svg" upon successful creation.
 
 # Walkthrough Video
-[Link to Walkthrough Video] 
+[Link to Walkthrough Video](https://drive.google.com/file/d/1p9jbz0vPART12GXQiCCQ3ex9pa4c6GLz/view)
 
 # Contributing
 - Feel free to contribute to the project. Open an issue or create a pull request if you find any improvements or issues.
